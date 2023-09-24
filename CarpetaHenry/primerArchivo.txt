@@ -1,0 +1,5 @@
+mkdir CarpetaHenry
+
+cd CarpetaHenry
+
+touch primerArchivo.txt
